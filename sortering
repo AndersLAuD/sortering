@@ -1,0 +1,21 @@
+int liste = 1;2;3;4;5;6;7;8;9;10;
+
+void setup() {
+  size(500, 500);
+}
+
+void draw() {
+  background(220);
+  
+ 
+}}
+
+void drawDiagram(gamerliste){
+  
+    
+    rect(height/liste.length*index,height,height/liste.length,-                liste[index]*height/(liste.length));
+    
+  });
+  
+
+}
